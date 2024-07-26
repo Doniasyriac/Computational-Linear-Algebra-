@@ -10,3 +10,4 @@ The following 'pseudocode'shows how to solve a system of linear equations
     ELSE IF
        solve using both substitution
 END FUNCTION
+
