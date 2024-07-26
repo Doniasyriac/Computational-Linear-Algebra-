@@ -1,4 +1,4 @@
-##pseudocode for linear algrbra
+## Pseudocode for linear algrbra
 The following 'pseudocode'shows how to solve a system of linear equations
 ```python
   FUNCTION Solution(A,b):
